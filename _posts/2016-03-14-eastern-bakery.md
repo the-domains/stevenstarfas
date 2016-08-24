@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-24T23:24:38.939Z'
+datePublished: '2016-08-24T23:25:31.317Z'
 sourcePath: _posts/2016-03-14-eastern-bakery.md
-inFeed: false
+inFeed: true
+isBasedOnUrl: null
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T23:24:38.377Z'
+dateModified: '2016-08-24T23:25:30.673Z'
 title: Eastern Bakery
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
 starred: false
-url: eastern-bakery/index.html
 _type: Blurb
 
 ---
