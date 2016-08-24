@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:28:31.142Z'
+datePublished: '2016-08-24T23:35:30.462Z'
 sourcePath: _posts/2016-03-14-eastern-bakery.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T23:28:30.622Z'
+dateModified: '2016-08-24T23:35:29.848Z'
 title: Eastern Bakery
 publisher: {}
 description: ''
