@@ -1,9 +1,30 @@
-favicon: null
-name: stevenstarfas
+typography_spectrum: 0.60482
+color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 1
+  brandColors:
+    - '#d9d1c4'
+    - '#252525'
+    - '#c3a084'
+    - '#96644b'
+    - '#863627'
+  lightness: 1
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5501792
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: stevenstarfas
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: STEVEN STARFAS
 purpose: []
-color:
-  saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 1
-  brandColors:
-    - '#d9d1c4'
-    - '#252525'
-    - '#c3a084'
-    - '#96644b'
-    - '#863627'
-  lightness: 1
-typography_spectrum: 0.60482
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5501792
-analytics:
-  twitter: null
-  google: null
-  facebook: null
