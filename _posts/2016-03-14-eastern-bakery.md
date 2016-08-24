@@ -1,25 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: San Francisco
-datePublished: '2016-03-14T03:41:20.157Z'
-dateModified: '2016-03-14T03:36:47.399Z'
-title: Eastern Bakery
-author: []
+datePublished: '2016-08-24T23:21:44.416Z'
 sourcePath: _posts/2016-03-14-eastern-bakery.md
-published: true
+inFeed: true
+isBasedOnUrl: null
 authors: []
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-24T23:21:44.041Z'
+title: Eastern Bakery
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-url: eastern-bakery/index.html
-_type: Article
+  name: Steven Starfas
+description: ''
+inLanguage: null
+inNav: false
+starred: false
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f062516-d8d7-4df8-b9a8-2a8b608a98df.jpg)
+# Eastern Bakery
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3c2527f6a1777ea86e907f51e29bf4b8e204350.jpg)
