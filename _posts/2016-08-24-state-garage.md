@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-24T23:33:08.775Z'
+datePublished: '2016-08-24T23:34:44.292Z'
+sourcePath: _posts/2016-08-24-state-garage.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T23:32:59.252Z'
+dateModified: '2016-08-24T23:34:43.775Z'
 title: State Garage
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-24-state-garage.md
 _context: 'http://schema.org'
 _type: Article
 
